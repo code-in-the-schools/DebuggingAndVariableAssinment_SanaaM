@@ -24,3 +24,12 @@ e = "hobby"
 f = "TodaysDate"
 
 print ( " This is an " + a + ". My name is "+ b + ". My favartist is " + c + ". I want to vacation to " + d + ". My hobby is " + e + ". and TodaysDate is" + f +".")
+
+
+
+asteriks = "*"  
+print(asteriks)
+
+asteriks = "**"
+print(asteriks)
+
